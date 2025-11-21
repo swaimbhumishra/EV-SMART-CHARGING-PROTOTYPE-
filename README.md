@@ -23,8 +23,7 @@ Design considerations for scaling using SiC/GaN devices and Digital Twin models
 
 Download the complete project report here:
 
-👉 Minor Project Report (PDF)
-
+https://github.com/swaimbhumishra/EV-SMART-CHARGING-PROTOTYPE-/blob/main/7th%20sem.%20minor%20project%20report.pdf
 
 🛠️ Technologies Used
 
